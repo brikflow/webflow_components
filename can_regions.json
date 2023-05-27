@@ -1,0 +1,121 @@
+[
+    {
+        "lat": 45.515162616698,
+        "lng": -73.638667132813,
+        "title": "Montréal",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 45.6066487,
+        "lng": -73.712409,
+        "title": "Laval",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 46.577590758789,
+        "lng": -76.660165213525,
+        "title": "Outaouais",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 45.275945825525,
+        "lng": -73.334390112695,
+        "title": "Montérégie",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 46.081596227891,
+        "lng": -72.185835886527,
+        "title": "Centre-du-Québec",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 45.470165703679,
+        "lng": -71.755361531043,
+        "title": "Estrie",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 48.041757157126,
+        "lng": -77.549162503369,
+        "title": "Abitibi-Témiscamingue",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 46.584938591697,
+        "lng": -73.863912983423,
+        "title": "Lanaudière",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 46.604911908709,
+        "lng": -74.940596178577,
+        "title": "Laurentides",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 47.661004118324,
+        "lng": -73.425891842358,
+        "title": "Mauricie",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 49.580290604787,
+        "lng": -71.903078041235,
+        "title": "Saguenay−Lac-Saint-Jean",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 47.259218836537,
+        "lng": -71.520381206641,
+        "title": "Capitale-Nationale",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 47.862607338343,
+        "lng": -68.876616178833,
+        "title": "Bas-Saint-Laurent",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 51.127378186867,
+        "lng": -65.294987846094,
+        "title": "Côte-Nord",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 48.33094250446,
+        "lng": -63.70978854375,
+        "title": "Gaspésie−Îles-de-la-Madeleine",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 46.349155583559,
+        "lng": -70.838663741162,
+        "title": "Chaudière-Appalaches",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    },
+    {
+        "lat": 55.245826851885,
+        "lng": -72.91192906875,
+        "title": "Nord-du-Québec",
+        "type": "region",
+        "icon": "/wp-content/themes/lgbtq/img/map-marker.png"
+    }
+]
